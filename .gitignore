@@ -1,6 +1,19 @@
+target
+out
+.gradle
+*.MF
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.dll
+*.iml
+*.iws
+*.ipr
+.idea
+.pmd
+.ruleset
+.settings
+.classpath
+.project
+build
+bin
+test-output
+.springBeans
